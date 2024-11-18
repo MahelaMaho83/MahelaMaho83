@@ -3,7 +3,7 @@
 ## Hi there 👋
 Bonjour ! Je m'appelle Mahela Mahosiarinosy, je suis un étudiant qui habite à Toulon. Passioné des informatiques, j'ai décidé d'apprendre une formation dans l'IA.
 
-[![LinkediIn](https://e7.pngegg.com/pngimages/602/665/png-clipart-linkedin-linkedin-thumbnail.png)](https://www.linkedin.com/in/mahela-maho-8a2b7124b/)
+[![LinkediIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/mahela-maho-8a2b7124b/)
 
 ## Project
 
