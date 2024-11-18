@@ -22,6 +22,15 @@ Le Fansite : Créer son propre site des célébrités
 Configurations matérielles/virtualisation : Proposer un ordinateur configurés, Apprendre à utiliser la commande de terminal sous Windows et Linux.
 
 
+# stats
+
+[![Statistiques Github](https://github-readme-stats.vercel.app/api?username=mahelamaho83&show_icons=true&theme=radical)
+
+)
+
+
+
+
 <!--
 **MahelaMaho83/MahelaMaho83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
