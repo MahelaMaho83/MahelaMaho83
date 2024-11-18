@@ -15,9 +15,11 @@ Vous Pouvez me retrouver dans mon LinkedIn ci-dessous :
 ![Photoshop](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/photoshop.png)
 ![SFM](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/sfm%20logo.png)
 
+Mes projet complétés actuellement :
 
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwildagsx">
+Le Fansite : Créer son propre site des célébrités
 
+Configurations matérielles/virtualisation : Proposer un ordinateur configurés, Apprendre à utiliser la commande de terminal sous Windows et Linux.
 
 
 <!--
