@@ -8,7 +8,7 @@ Bonjour ! Je m'appelle Mahela Mahosiarinosy, je suis un étudiant qui habite à 
 
 ## Skills
 ![HTML5](https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png)
-![CSS](https://e7.pngegg.com/pngimages/603/759/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle-thumbnail.png)
+![CSS](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/css.png)
 ![Blender](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/blender.png)
 ![Photoshop](https://e7.pngegg.com/pngimages/719/831/png-clipart-adobe-creative-cloud-computer-icons-editing-shop-icon-blue-text-thumbnail.png)
 ![SFM](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/sfm%20logo.png)
