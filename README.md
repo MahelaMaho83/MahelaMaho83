@@ -1,15 +1,10 @@
-![Header]((https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg))
+![Header](https://png.pngtree.com/thumb_back/fh260/background/20210906/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-image_804237.jpg)
 
 ## Hi there 👋
 Bonjour ! Je m'appelle Mahela Mahosiarinosy, je suis un étudiant qui habite à Toulon. Passioné des informatiques, j'ai décidé d'apprendre une formation dans l'IA.
 
 [![LinkediIn](https://cdn.iconscout.com/icon/free/png-256/free-linkedin-49-226551.png?f=webp)](https://www.linkedin.com/in/mahela-maho-8a2b7124b/) 
 
-## Project
-
-- [Projet CV](https://github.com/MahelaMaho83/CV-site)
-
-- [Projet Fansite](https://github.com/MahelaMaho83/Fansite)
 
 ## Skills
 ![HTML5](https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png)
