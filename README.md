@@ -10,7 +10,7 @@ Bonjour ! Je m'appelle Mahela Mahosiarinosy, je suis un étudiant qui habite à 
 ![HTML5](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/html.png)
 ![CSS](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/css.png)
 ![Blender](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/blender.png)
-![Photoshop](https://e7.pngegg.com/pngimages/719/831/png-clipart-adobe-creative-cloud-computer-icons-editing-shop-icon-blue-text-thumbnail.png)
+![Photoshop](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/photoshop.png)
 ![SFM](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/sfm%20logo.png)
 
 
