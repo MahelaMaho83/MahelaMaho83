@@ -11,6 +11,9 @@ Vous Pouvez me contacter dans mon LinkedIn ou par Gmail ci-dessous :
 
 
 ## Skills
+
+Voici quelques logiciel je suis actuellement habitué :
+
 ![HTML5](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/html.png)
 ![CSS](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/css.png)
 ![Blender](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/blender.png)
