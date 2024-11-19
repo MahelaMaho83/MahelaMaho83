@@ -7,7 +7,7 @@ Vous Pouvez me contacter dans mon LinkedIn ou par Gmail ci-dessous :
 
 [![LinkediIn](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/linkedIn.png)](https://www.linkedin.com/in/mahela-maho-8a2b7124b/) 
 
-Mon E-Mail ![Gmail](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/gmail.png): mahela.mahosiarinosy@laplateforme.io
+![Gmail](https://github.com/MahelaMaho83/MahelaMaho83/blob/main/gmail.png): mahela.mahosiarinosy@laplateforme.io
 
 
 ## Skills
